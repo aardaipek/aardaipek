@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**aardaipek/aardaipek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm a software developer at PrimeApps. I'm currently working on full stack web development especially javascript and dotnet core. I had worked as a frontend developer before. I used angular 8 and ionic frameworks for this position.
+
+- 🌱 I’m currently learning React and React Native
+- 💬 Ask me about Javascript or web development.
+
+
+### How to reach me ?💻
+    
+  - You can reach me on twitter @aardaipek or send me an email to aardaipek@gmail.com
+
+## Also,you can visit my site
+
+- www.ardaipek.xyz
+
