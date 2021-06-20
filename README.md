@@ -14,5 +14,5 @@
 
 ## Also,you can visit my site
 
-- www.ardaipek.xyz
+- ardaipek.me
 
