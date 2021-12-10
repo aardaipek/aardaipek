@@ -2,7 +2,7 @@
 
 
 
- I'm a software developer at PrimeApps. I'm currently working on full stack web development especially javascript and dotnet core. I had worked as a frontend developer before. I used angular 8 and ionic frameworks for this position.
+ I'm a software developer. I'm currently working on Backend - NodeJS development. I had worked as a frontend developer before. I used angular 8 and ionic frameworks for this position.
 
 - 🌱 I’m currently focused on NodeJS and develops services with that
 - 💪🏽 Also i want to improve my skill set with learning React and React Native
