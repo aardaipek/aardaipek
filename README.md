@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
- I'm a software developer. I'm currently working on Backend - NodeJS development. I had worked as a frontend developer before. I used angular 8 and ionic frameworks for this position.
+ I work as a Backend Developer at a startup that handles high volumes of data traffic. I create new features and services using NodeJS and Dotnet Core to deliver cutting-edge solutions. I have experience primarily developing backend code. I thrive on solving complex challenges and finding creative solutions. Moreover, I am committed to constantly learning and exploring new techniques and patterns to improve my skills as a developer.
 
-- 💬 Ask me about Javascript or web development.
+- 💬 Ask me about JS, NodeJS or Backend development.
 
 
 ### How to reach me ?💻
