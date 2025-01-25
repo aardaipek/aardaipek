@@ -12,5 +12,5 @@
 
 ## Also,you can visit my site
 
-- 👉🏽 https://ardadotcom.vercel.app/
+- 👉🏽 https://ardaipek.vercel.app
 
